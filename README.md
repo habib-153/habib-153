@@ -3,7 +3,9 @@
 
 ## 📈 Current Stats 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=habib-153&theme=blue-green&border_radius=5&align=center&card_width=500&border=230F97&ring=230F97)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=habib-153&theme=blue-green&border_radius=5&card_width=500&border=230F97&ring=230F97" alt="GitHub Streak" /></a>
+</p>
 
 ## 💻 Technologies that I know
 <p align="center">
@@ -19,6 +21,7 @@
 
 ## 👀 Current overview
 
+- Now I am working with <strong>Js, React,Express,MongoDb</strong> and trying to build some projects.
 - 🌱 I’m currently learning <strong>Next.js, Python</strong>
 - 🌱 I’m currently studying on <strong>Data Science</strong> in UIU
 
