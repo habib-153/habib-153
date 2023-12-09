@@ -3,7 +3,19 @@
 
 # 📈 Current Stats 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=habib-153&theme=blue-green&border_radius=5&mx=auto&card_width=500&border=230F97&ring=230F97)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=habib-153&theme=blue-green&border_radius=5&align=center&card_width=500&border=230F97&ring=230F97)](https://git.io/streak-stats)
+
+# 💻 Technologies that I know
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,git,firebase" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,react,mongodb,express" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,py" />
+  </a>
+</p>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
