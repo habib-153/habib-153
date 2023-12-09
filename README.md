@@ -25,12 +25,10 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=habib-153&theme=blue-green&border_radius=5&card_width=500&border=230F97&ring=230F97" alt="GitHub Streak" /></a>
+  <a href="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=habib-153&theme=blue_green"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=habib-153&theme=blue_green" alt="GitHub Streak" /></a>
+  <a href="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=habib-153&theme=blue_green"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=habib-153&theme=blue_green" alt="GitHub Streak" /></a>
+  <a href="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=habib-153&theme=blue_green&utcOffset=8"><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=habib-153&theme=blue_green&utcOffset=8" alt="GitHub Streak" /></a>
 </p>
-
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=habib-153&theme=blue_green)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=habib-153&theme=blue_green)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=habib-153&theme=blue_green&utcOffset=8)
 
 ## 💻 Technologies that I know
 <p align="center">
