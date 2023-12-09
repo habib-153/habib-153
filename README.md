@@ -1,8 +1,19 @@
 
-[![Banner](/assests/Untitled-2.png "Shiprock, New Mexico by Beau Rogers")](https://www.flickr.com/photos/beaurogers/31833779864/in/photolist-Qv3rFw-34mt9F-a9Cmfy-5Ha3Zi-9msKdv-o3hgjr-hWpUte-4WMsJ1-KUQ8N-deshUb-vssBD-6CQci6-8AFCiD-zsJWT-nNfsgB-dPDwZJ-bn9JGn-5HtSXY-6CUhAL-a4UTXB-ugPum-KUPSo-fBLNm-6CUmpy-4WMsc9-8a7D3T-83KJev-6CQ2bK-nNusHJ-a78rQH-nw3NvT-7aq2qf-8wwBso-3nNceh-ugSKP-4mh4kh-bbeeqH-a7biME-q3PtTf-brFpgb-cg38zw-bXMZc-nJPELD-f58Lmo-bXMYG-bz8AAi-bxNtNT-bXMYi-bXMY6-bXMYv)
+[![Banner](/assests/Untitled-2.png "banner")](https://www.flickr.com/photos/beaurogers/31833779864/in/photolist-Qv3rFw-34mt9F-a9Cmfy-5Ha3Zi-9msKdv-o3hgjr-hWpUte-4WMsJ1-KUQ8N-deshUb-vssBD-6CQci6-8AFCiD-zsJWT-nNfsgB-dPDwZJ-bn9JGn-5HtSXY-6CUhAL-a4UTXB-ugPum-KUPSo-fBLNm-6CUmpy-4WMsc9-8a7D3T-83KJev-6CQ2bK-nNusHJ-a78rQH-nw3NvT-7aq2qf-8wwBso-3nNceh-ugSKP-4mh4kh-bbeeqH-a7biME-q3PtTf-brFpgb-cg38zw-bXMZc-nJPELD-f58Lmo-bXMYG-bz8AAi-bxNtNT-bXMYi-bXMY6-bXMYv)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=habib-153&theme=blue_green)
+<p align="center">
+  <a href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=habib-153&theme=blue_green"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=habib-153&theme=blue_green" alt="GitHub details" /></a>
+</p>
 
+## 📫 Reach me out
+<p align="center">
+<a href='https://www.facebook.com/h.R4hM4n.8'>
+<img style='width:50px' src='./assests/facebook.png'>
+</a>
+<a href='https://www.linkedin.com/in/habibur-rahman-695a3b288/'>
+<img style='width:50px' src='./assests/linkedin.jpeg'>
+</a>
+</p>
 ## 👀 Current overview
 - Now I am working with <strong>Js, React,Express,MongoDb</strong> and trying to build some projects.
 - 🌱 I’m currently learning <strong>Next.js, Python</strong>
