@@ -14,6 +14,7 @@
 <img style='width:50px' src='./assests/linkedin.jpeg'>
 </a>
 </p>
+
 ## 👀 Current overview
 - Now I am working with <strong>Js, React,Express,MongoDb</strong> and trying to build some projects.
 - 🌱 I’m currently learning <strong>Next.js, Python</strong>
