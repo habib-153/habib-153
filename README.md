@@ -3,7 +3,7 @@
 
 # 📈 Current Stats 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=habib-153&theme=blue-green&border_radius=5&card_width=500&border=230F97&ring=230F97)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=habib-153&theme=blue-green&border_radius=5&mx=auto&card_width=500&border=230F97&ring=230F97)](https://git.io/streak-stats)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
