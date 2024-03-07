@@ -8,11 +8,14 @@
 ## 📫 Reach me out
 <p align="center">
 <a href='https://www.facebook.com/h.R4hM4n.8'>
-<img style='width:50px' src='./assests/facebook.png'>
+<img style='width:50px; margin-right:10px' src='./assests/facebook.png'>
 </a>
-<a href='https://www.linkedin.com/in/habibur-rahman-695a3b288/'>
-<img style='width:50px' src='./assests/linkedin.jpeg'>
+<a href='https://www.linkedin.com/in/habiburrahman153'>
+<img style='width:50px; margin-right:10px' src='./assests/linkedin.jpeg'>
 </a>
+<a href="mailto:h.r.sihab155@gmail.com">
+    <img style='width:50px; margin-right:10px' src="https://skillicons.dev/icons?i=gmail" />
+  </a>
 </p>
 
 ## 👀 Current overview
