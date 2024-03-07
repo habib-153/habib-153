@@ -28,7 +28,6 @@
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=habib-153&theme=blue-green&border_radius=5&card_width=500&border=230F97&ring=230F97" alt="GitHub Streak" /></a>
   <a href="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=habib-153&theme=blue_green"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=habib-153&theme=blue_green" alt="GitHub Streak" /></a>
   <a href="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=habib-153&theme=blue_green"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=habib-153&theme=blue_green" alt="GitHub Streak" /></a>
-  <a href="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=habib-153&theme=blue_green&utcOffset=8"><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=habib-153&theme=blue_green&utcOffset=8" alt="GitHub Streak" /></a>
 </p>
 
 ## 💻 Technologies that I know
@@ -37,9 +36,9 @@
     <img src="https://skillicons.dev/icons?i=html,css,git,firebase" />
   </a><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,tailwind,mongodb,express" /><br>
+    <img src="https://skillicons.dev/icons?i=js,react,tailwind,materialui,nextjs,redux" /><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,py" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,py" />
   </a>
 </p>
 
