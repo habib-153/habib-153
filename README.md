@@ -6,16 +6,12 @@
 </p>
 
 ## 📫 Reach me out
-<p align="center">
-<a href='https://www.facebook.com/h.R4hM4n.8'>
-<img style='width:50px; margin-right:10px' src='./assests/facebook.png'>
-</a>
-<a href='https://www.linkedin.com/in/habiburrahman153'>
-<img style='width:50px; margin-right:10px' src='./assests/linkedin.jpeg'>
-</a>
-<a href="mailto:h.r.sihab155@gmail.com">
-    <img style='width:50px; margin-right:10px' src="https://skillicons.dev/icons?i=gmail" />
-  </a>
+<p>
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/h.R4hM4n.8)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/habiburrahman153)
+[![Gmail](https://img.shields.io/badge/Gmail-%231877F2.svg?logo=Gmail)](mailto:h.r.sihab155@gmail.com)
+
 </p>
 
 ## 👀 Current overview
@@ -32,9 +28,10 @@
   <div style="display: flex; flex-wrap: wrap; gap:10px; justify-content: center; align-items: center;">
   
   <span > ![](https://github-readme-stats.vercel.app/api?username=habib-153&theme=dark&hide_border=false&include_all_commits=false&count_private=false)</span>
-
   <span>![](https://github-readme-stats.vercel.app/api/top-langs/?username=habib-153&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)</span>
   </div>
+  
+  ![](https://github-profile-trophy.vercel.app/?username=habib-153&theme=dark_dimmed)
 </p>
 
 ## 💻 Technologies that I know
