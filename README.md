@@ -29,8 +29,12 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=habib-153&theme=blue-green&border_radius=5&card_width=500&border=230F97&ring=230F97" alt="GitHub Streak" /></a>
-  <a href="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=habib-153&theme=blue_green"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=habib-153&theme=blue_green" alt="GitHub Streak" /></a>
-  <a href="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=habib-153&theme=blue_green"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=habib-153&theme=blue_green" alt="GitHub Streak" /></a>
+  <div style="display: flex; flex-wrap: wrap; gap:10px; justify-content: center; align-items: center;">
+  
+  <span > ![](https://github-readme-stats.vercel.app/api?username=habib-153&theme=dark&hide_border=false&include_all_commits=false&count_private=false)</span>
+
+  <span>![](https://github-readme-stats.vercel.app/api/top-langs/?username=habib-153&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)</span>
+  </div>
 </p>
 
 ## 💻 Technologies that I know
@@ -45,25 +49,27 @@
   </a>
 </p>
 
-## 📊Projects
+## 💼 Projects
 >### 1. My building
 >
 >> <strong>Live Link: </strong>https://a-12-my-building.web.app/ <br>
->> <strong>Clint-side Repo: [Client-side](https://github.com/habib-153/my-building-client "repo").</strong> <br>
+>> <strong>Clint-side Repo:</strong> [Client-side](https://github.com/habib-153/my-building-client "repo"). <br>
 >> <strong>Server-side Repo: </strong>[Server-side](https://github.com/habib-153/my-building-server "repo"). <br>
 >> <strong>Features: </strong>[For details please click here](https://github.com/habib-153/my-building-client/blob/main/README.md "repo"). <br>
 >### 2. Online Group Study[Assignment submission management]
 >
 >> <strong>Live Link: </strong>https://a-11-online-group-study.web.app/ <br>
->> <strong>Clint-side Repo: [Client-side](https://github.com/habib-153/assignment-submission-client "repo").</strong> <br>
+>> <strong>Clint-side Repo:</strong> [Client-side](https://github.com/habib-153/assignment-submission-client "repo"). <br>
 >> <strong>Server-side Repo: </strong>[Server-side](https://github.com/habib-153/assignment-submission-server "repo"). <br>
 >> <strong>Features: </strong>[For details please click here](https://github.com/habib-153/assignment-submission-client/blob/main/README.md "repo"). <br>
->### 3. Tech & Electronics
->> <strong>Live Link: </strong>https://cute-hotteok-6ac779.netlify.app/ <br>
->> <strong>Clint-side Repo: [Client-side](https://github.com/habib-153/Tech-Electronics/tree/main/Tech-clint-side "repo").</strong> <br>
->> <strong>Server-side Repo: </strong>[Server-side](https://github.com/habib-153/Tech-Electronics/tree/main/server-side "repo"). <br>
->> <strong>Features: </strong>[For details please click here](https://github.com/habib-153/Tech-Electronics/tree/main "repo"). <br>
+>### 3. Virtual-Doc(Team Project)
+>> <strong>Demo: </strong>[Live Link](https://virtual-doc-site.web.app/) <br>
+>> <strong>Clint-side Repo:</strong> [Client-side](https://github.com/TeamTechTitans/VirtualDoc). <br>
+>> <strong>Server-side Repo: </strong>[Server-side](https://github.com/TeamTechTitans/VirtualDoc-Backend). <br>
+>> <strong>Features: </strong>[For details please click here](https://github.com/TeamTechTitans/VirtualDoc/blob/main/README.md). <br>
 
+---
 
+<!-- [![](https://visitcount.itsvg.in/api?id=habib-153&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
 
