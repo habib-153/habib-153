@@ -25,13 +25,13 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=habib-153&theme=blue-green&border_radius=5&card_width=500&border=230F97&ring=230F97" alt="GitHub Streak" /></a>
-  <div style="display: flex; flex-wrap: wrap; gap:10px; justify-content: center; align-items: center;">
+  <div style="display: flex; flex-wrap: wrap; gap:10px; justify-content: center; align-items: center">
   
-  <span > ![](https://github-readme-stats.vercel.app/api?username=habib-153&theme=dark&hide_border=false&include_all_commits=false&count_private=false)</span>
-  <span>![](https://github-readme-stats.vercel.app/api/top-langs/?username=habib-153&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)</span>
+  ![](https://github-readme-stats.vercel.app/api?username=habib-153&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=habib-153&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
   </div>
   
-  ![](https://github-profile-trophy.vercel.app/?username=habib-153&theme=dark_dimmed)
+  ![](https://github-profile-trophy.vercel.app/?username=habib-153&theme=matrix)
 </p>
 
 ## 💻 Technologies that I know
