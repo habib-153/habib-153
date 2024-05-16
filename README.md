@@ -1,4 +1,3 @@
-
 [![Banner](/assests/Untitled-2.png "banner")](https://www.flickr.com/photos/beaurogers/31833779864/in/photolist-Qv3rFw-34mt9F-a9Cmfy-5Ha3Zi-9msKdv-o3hgjr-hWpUte-4WMsJ1-KUQ8N-deshUb-vssBD-6CQci6-8AFCiD-zsJWT-nNfsgB-dPDwZJ-bn9JGn-5HtSXY-6CUhAL-a4UTXB-ugPum-KUPSo-fBLNm-6CUmpy-4WMsc9-8a7D3T-83KJev-6CQ2bK-nNusHJ-a78rQH-nw3NvT-7aq2qf-8wwBso-3nNceh-ugSKP-4mh4kh-bbeeqH-a7biME-q3PtTf-brFpgb-cg38zw-bXMZc-nJPELD-f58Lmo-bXMYG-bz8AAi-bxNtNT-bXMYi-bXMY6-bXMYv)
 
 <p align="center">
@@ -6,6 +5,7 @@
 </p>
 
 ## 📫 Reach me out
+
 <p>
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/h.R4hM4n.8)
@@ -15,13 +15,25 @@
 </p>
 
 ## 👀 Current overview
-- Now I am working with <strong>Js, React,Express,MongoDb</strong> and trying to build some projects.
-- 🌱 I’m currently learning <strong>Next.js, Python</strong>
-- 🌱 I’m currently studying on <strong>Data Science</strong> in UIU
 
-- 🤔 I’m looking for a <strong>Intern/Job</strong>
+<div style="display: grid; grid-template-columns: 400px 400px; justify-content: space-between; gap:10px; ">
+  <div>
+    <ul>
+      <li>Now I am working with <strong>Js, React,Express,MongoDb</strong> and trying to build some projects.</li>
+      <li>📚 I’m currently learning <strong>Next.js, Python</strong>.</li>
+<li>🎓 I’m currently studying on <strong>Data Science</strong> in UIU.</li>
+      <li>🤔 I’m looking for a <strong>Intern/Job</strong>.</li>
+      <li>💼 I have experience working on several projects, both individually and as part of a team.</li>
+      <li>🎯 I'm focused on improving my problem-solving skills and understanding of algorithms.</li>
+      <li>📚 I'm passionate about continuous learning and staying updated with the latest technologies.</li>
+    </ul>
+  </div>
+  <div style='text-align: right'>
+    <a href="https://app.daily.dev/habiburrahman153"><img src="https://api.daily.dev/devcards/v2/stjM0tO6ULjLJNz8H8qrU.png?type=default&r=l49" width="300" alt="Habibur Rahman's Dev Card"/></a>
+  </div>
+</div>
 
-## 📈 Current Stats 
+## 📈 Current Stats
 
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=habib-153&theme=blue-green&border_radius=5&card_width=500&border=230F97&ring=230F97" alt="GitHub Streak" /></a>
@@ -35,6 +47,7 @@
 </p>
 
 ## 💻 Technologies that I know
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,git,firebase" />
@@ -47,26 +60,19 @@
 </p>
 
 ## 💼 Projects
->### 1. My building
+
+> ### 1. My building
 >
->> <strong>Live Link: </strong>https://a-12-my-building.web.app/ <br>
->> <strong>Clint-side Repo:</strong> [Client-side](https://github.com/habib-153/my-building-client "repo"). <br>
->> <strong>Server-side Repo: </strong>[Server-side](https://github.com/habib-153/my-building-server "repo"). <br>
->> <strong>Features: </strong>[For details please click here](https://github.com/habib-153/my-building-client/blob/main/README.md "repo"). <br>
->### 2. Online Group Study[Assignment submission management]
+> > <strong>Live Link: </strong>https://a-12-my-building.web.app/ <br> >> <strong>Clint-side Repo:</strong> [Client-side](https://github.com/habib-153/my-building-client "repo"). <br> >> <strong>Server-side Repo: </strong>[Server-side](https://github.com/habib-153/my-building-server "repo"). <br> >> <strong>Features: </strong>[For details please click here](https://github.com/habib-153/my-building-client/blob/main/README.md "repo"). <br>
 >
->> <strong>Live Link: </strong>https://a-11-online-group-study.web.app/ <br>
->> <strong>Clint-side Repo:</strong> [Client-side](https://github.com/habib-153/assignment-submission-client "repo"). <br>
->> <strong>Server-side Repo: </strong>[Server-side](https://github.com/habib-153/assignment-submission-server "repo"). <br>
->> <strong>Features: </strong>[For details please click here](https://github.com/habib-153/assignment-submission-client/blob/main/README.md "repo"). <br>
->### 3. Virtual-Doc(Team Project)
->> <strong>Demo: </strong>[Live Link](https://virtual-doc-site.web.app/) <br>
->> <strong>Clint-side Repo:</strong> [Client-side](https://github.com/TeamTechTitans/VirtualDoc). <br>
->> <strong>Server-side Repo: </strong>[Server-side](https://github.com/TeamTechTitans/VirtualDoc-Backend). <br>
->> <strong>Features: </strong>[For details please click here](https://github.com/TeamTechTitans/VirtualDoc/blob/main/README.md). <br>
+> ### 2. Online Group Study[Assignment submission management]
+>
+> > <strong>Live Link: </strong>https://a-11-online-group-study.web.app/ <br> >> <strong>Clint-side Repo:</strong> [Client-side](https://github.com/habib-153/assignment-submission-client "repo"). <br> >> <strong>Server-side Repo: </strong>[Server-side](https://github.com/habib-153/assignment-submission-server "repo"). <br> >> <strong>Features: </strong>[For details please click here](https://github.com/habib-153/assignment-submission-client/blob/main/README.md "repo"). <br>
+>
+> ### 3. Virtual-Doc(Team Project)
+>
+> > <strong>Demo: </strong>[Live Link](https://virtual-doc-site.web.app/) <br> >> <strong>Clint-side Repo:</strong> [Client-side](https://github.com/TeamTechTitans/VirtualDoc). <br> >> <strong>Server-side Repo: </strong>[Server-side](https://github.com/TeamTechTitans/VirtualDoc-Backend). <br> >> <strong>Features: </strong>[For details please click here](https://github.com/TeamTechTitans/VirtualDoc/blob/main/README.md). <br>
 
 ---
 
 <!-- [![](https://visitcount.itsvg.in/api?id=habib-153&icon=0&color=0)](https://visitcount.itsvg.in) -->
-
-
