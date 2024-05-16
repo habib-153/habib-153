@@ -16,8 +16,8 @@
 
 ## 👀 Current overview
 
-<div style="display: flex; flex-wrap: wrap; gap:10px; justify-content: space-around; ">
-  <div style="max-width: 500px">
+<div style="display: flex; flex-wrap: wrap; gap:200px;  ">
+  <div style="width: 400px">
     <ul>
       <li>Now I am working with <strong>Js, React,Express,MongoDb</strong> and trying to build some projects.</li>
       <li>📚 I’m currently learning <strong>Next.js, Python</strong>.</li>
@@ -28,7 +28,7 @@
       <li>📚 I'm passionate about continuous learning and staying updated with the latest technologies.</li>
     </ul>
   </div>
-  <div >
+  <div style='max-width: 400px; align-items: left'>
     <a href="https://app.daily.dev/habiburrahman153"><img src="https://api.daily.dev/devcards/v2/stjM0tO6ULjLJNz8H8qrU.png?type=default&r=l49" width="300" alt="Habibur Rahman's Dev Card"/></a>
   </div>
 </div>
