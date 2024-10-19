@@ -18,4 +18,4 @@ jobs:
       - name: devcard
         uses: dailydotdev/action-devcard@2.0.2
         with:
-          devcard_id: stjM0tO6ULjLJNz8H8qrU
+          devcard_id: habiburrahman153
