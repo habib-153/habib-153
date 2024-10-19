@@ -23,7 +23,7 @@
 
 ## 👀 Current overview
 
-<div>
+<div style="padding: 20px;">
 <div align="left">
 <a href="https://app.daily.dev/habiburrahman153"><img align="right" src="https://api.daily.dev/devcards/v2/stjM0tO6ULjLJNz8H8qrU.png?type=default&r=b8n" width="200" alt="Habibur Rahman's Dev Card"/></a>
 </div>
