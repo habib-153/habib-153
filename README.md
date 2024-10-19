@@ -1,7 +1,14 @@
-[![Banner](/assests/Untitled-2.png "banner")](https://www.flickr.com/photos/beaurogers/31833779864/in/photolist-Qv3rFw-34mt9F-a9Cmfy-5Ha3Zi-9msKdv-o3hgjr-hWpUte-4WMsJ1-KUQ8N-deshUb-vssBD-6CQci6-8AFCiD-zsJWT-nNfsgB-dPDwZJ-bn9JGn-5HtSXY-6CUhAL-a4UTXB-ugPum-KUPSo-fBLNm-6CUmpy-4WMsc9-8a7D3T-83KJev-6CQ2bK-nNusHJ-a78rQH-nw3NvT-7aq2qf-8wwBso-3nNceh-ugSKP-4mh4kh-bbeeqH-a7biME-q3PtTf-brFpgb-cg38zw-bXMZc-nJPELD-f58Lmo-bXMYG-bz8AAi-bxNtNT-bXMYi-bXMY6-bXMYv)
+![Banner](/assests/Untitled-2.png "banner")
 
-<p align="center">
+<!-- <p align="center">
   <a href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=habib-153&theme=blue_green"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=habib-153&theme=blue_green" alt="GitHub details" /></a>
+</p> -->
+
+<!-- Add this section for GitHub Workflow Badges -->
+<p align="center">
+  <a href="https://github.com/habib-153/habib-153/actions/workflows/devcard.yml">
+    <img src="https://github.com/habib-153/habib-153/actions/workflows/devcard.yml/badge.svg" alt="DevCard Workflow Status" />
+  </a>
 </p>
 
 ## 📫 Reach me out
@@ -16,8 +23,11 @@
 
 ## 👀 Current overview
 
-<div style="display: flex; flex-wrap: wrap; gap:200px;  ">
-  <div style="width: 400px">
+<div>
+<div align="left">
+<a href="https://app.daily.dev/habiburrahman153"><img align="right" src="https://api.daily.dev/devcards/v2/stjM0tO6ULjLJNz8H8qrU.png?type=default&r=b8n" width="200" alt="Habibur Rahman's Dev Card"/></a>
+</div>
+  <div >
     <ul>
       <li>Now I am working with <strong>Js, React,Express,MongoDb</strong> and trying to build some projects.</li>
       <li>📚 I’m currently learning <strong>Next.js, Python</strong>.</li>
@@ -27,9 +37,6 @@
       <li>🎯 I'm focused on improving my problem-solving skills and understanding of algorithms.</li>
       <li>📚 I'm passionate about continuous learning and staying updated with the latest technologies.</li>
     </ul>
-  </div>
-  <div style='max-width: 400px; align-items: left'>
-    <a href="https://app.daily.dev/habiburrahman153"><img src="https://api.daily.dev/devcards/v2/stjM0tO6ULjLJNz8H8qrU.png?type=default&r=l49" width="300" alt="Habibur Rahman's Dev Card"/></a>
   </div>
 </div>
 
@@ -53,12 +60,12 @@
     <img src="https://skillicons.dev/icons?i=html,css,git,firebase" />
   </a><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,tailwind,materialui,nextjs,redux" /><br>
+    <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,materialui,nextjs,redux" /><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,py" />
+    <img src="https://skillicons.dev/icons?i=npm,nodejs,express,mongodb,py,postman,vite" />
   </a>
 </p>
-
+<!-- 
 ## 💼 Projects
 
 > ### 1. My building
@@ -71,7 +78,7 @@
 >
 > ### 3. Virtual-Doc(Team Project)
 >
-> > <strong>Demo: </strong>[Live Link](https://virtual-doc-site.web.app/) <br> >> <strong>Clint-side Repo:</strong> [Client-side](https://github.com/TeamTechTitans/VirtualDoc). <br> >> <strong>Server-side Repo: </strong>[Server-side](https://github.com/TeamTechTitans/VirtualDoc-Backend). <br> >> <strong>Features: </strong>[For details please click here](https://github.com/TeamTechTitans/VirtualDoc/blob/main/README.md). <br>
+> > <strong>Demo: </strong>[Live Link](https://virtual-doc-site.web.app/) <br> >> <strong>Clint-side Repo:</strong> [Client-side](https://github.com/TeamTechTitans/VirtualDoc). <br> >> <strong>Server-side Repo: </strong>[Server-side](https://github.com/TeamTechTitans/VirtualDoc-Backend). <br> >> <strong>Features: </strong>[For details please click here](https://github.com/TeamTechTitans/VirtualDoc/blob/main/README.md). <br> -->
 
 ---
 
