@@ -25,7 +25,7 @@
 
 <div style="padding: 20px;">
 <div align="left">
-<a href="https://app.daily.dev/habiburrahman153"><img align="right" src="https://api.daily.dev/devcards/v2/stjM0tO6ULjLJNz8H8qrU.png?type=default&r=b8n" width="200" alt="Habibur Rahman's Dev Card"/></a>
+<a href="https://app.daily.dev/habiburrahman153"><img align="right" src="./devcard.png" width="200" alt="Habibur Rahman's Dev Card"/></a>
 </div>
   <div >
     <ul>
@@ -69,14 +69,19 @@
 ## 💼 Projects
 
 > ### 1. My building
+
 >
 > > <strong>Live Link: </strong>https://a-12-my-building.web.app/ <br> >> <strong>Clint-side Repo:</strong> [Client-side](https://github.com/habib-153/my-building-client "repo"). <br> >> <strong>Server-side Repo: </strong>[Server-side](https://github.com/habib-153/my-building-server "repo"). <br> >> <strong>Features: </strong>[For details please click here](https://github.com/habib-153/my-building-client/blob/main/README.md "repo"). <br>
 >
+
 > ### 2. Online Group Study[Assignment submission management]
+
 >
 > > <strong>Live Link: </strong>https://a-11-online-group-study.web.app/ <br> >> <strong>Clint-side Repo:</strong> [Client-side](https://github.com/habib-153/assignment-submission-client "repo"). <br> >> <strong>Server-side Repo: </strong>[Server-side](https://github.com/habib-153/assignment-submission-server "repo"). <br> >> <strong>Features: </strong>[For details please click here](https://github.com/habib-153/assignment-submission-client/blob/main/README.md "repo"). <br>
 >
+
 > ### 3. Virtual-Doc(Team Project)
+
 >
 > > <strong>Demo: </strong>[Live Link](https://virtual-doc-site.web.app/) <br> >> <strong>Clint-side Repo:</strong> [Client-side](https://github.com/TeamTechTitans/VirtualDoc). <br> >> <strong>Server-side Repo: </strong>[Server-side](https://github.com/TeamTechTitans/VirtualDoc-Backend). <br> >> <strong>Features: </strong>[For details please click here](https://github.com/TeamTechTitans/VirtualDoc/blob/main/README.md). <br> -->
 
