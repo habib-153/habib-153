@@ -1,9 +1,5 @@
 ![Banner](/assests/Untitled-2.png "banner")
 
-<!-- <p align="center">
-  <a href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=habib-153&theme=blue_green"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=habib-153&theme=blue_green" alt="GitHub details" /></a>
-</p> -->
-
 <!-- Add this section for GitHub Workflow Badges -->
 <p align="center">
   <a href="https://github.com/habib-153/habib-153/actions/workflows/devcard.yml">
@@ -23,7 +19,7 @@
 
 ## 👀 Current overview
 
-<div style="padding: 20px;">
+<div style="padding-bottom: 80px;">
 <div align="left">
 <a href="https://app.daily.dev/habiburrahman153"><img align="right" src="./devcard.png" width="200" alt="Habibur Rahman's Dev Card"/></a>
 </div>
