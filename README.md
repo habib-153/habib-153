@@ -102,13 +102,13 @@ const habibur = {
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=habib-153&theme=tokyonight&border_radius=10&card_width=500" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=habib-153&theme=tokyonight" alt="GitHub Streak" />
   </a>
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=habib-153&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=habib-153&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=habib-153&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=habib-153&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
 </p>
 
 <p align="center">
@@ -119,6 +119,7 @@ const habibur = {
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=habib-153&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
 </p>
+
 ---
 
 <!-- Snake Animation -->
